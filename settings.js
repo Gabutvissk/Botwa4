@@ -8,7 +8,7 @@ const {
 
 //sebagian panel gk support opena ai jadi mungkin apikey lu bakalan di blokir
 //klo misalkan pada saat memakai fitur ai, terus dapat email dari open si, itu berarti website tempat lu install bot gk support ai
-global.OpenAIKey = "YOUR_KEY" //login to https://platform.openai.com/account/api-keys to get apikey
+global.OpenAIKey = "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" //login to https://platform.openai.com/account/api-keys to get apikey
 
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
@@ -52,7 +52,7 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.pairingNumber = "6012345678" //masukkan nomor yang ingin menjadi bot agar pairing code muncul pada saat install 
+global.pairingNumber = "6283845598946" //masukkan nomor yang ingin menjadi bot agar pairing code muncul pada saat install 
 global.botname = "Alphabot-Mdོ" //namabot kalian
 global.ownername = "ᴹᴿ᭄ LynnZxDོ ×፝֟͜×" //nama kalian
 global.myweb = "https://wa.me/628999811229" //bebas asal jan hapus
